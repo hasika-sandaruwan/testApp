@@ -35,3 +35,11 @@
     border-radius: 0;
     color: white;
 }
+.title{
+    font-size: 12px;
+    text-align: center;
+}
+.outer{
+    height: 300px;
+    border: 1px solid red;
+}
