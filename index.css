@@ -4,3 +4,19 @@
     position: fixed;
     top:0;
 }
+.banner-outer{
+    width: 100%;
+    height: 500px;
+    background: url("https://img.freepik.com/free-photo/warm-woman-laptop-wood-latte-art_1286-301.jpg?t=st=1647786376~exp=1647786976~hmac=f893783f9b4cc46ed4f3c9ab2c4ba341e1071fe930e41593072befc8efd9d611&w=740");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+}
+.inner-content-outer{
+    height: auto;
+    min-height: 200px;
+    width: 100%;
+    border: 1px solid red;
+}
